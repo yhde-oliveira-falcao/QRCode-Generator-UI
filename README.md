@@ -1,2 +1,2 @@
 # QRCode-Generator-UI
-The full tutorial for this program can be found at: https://www.programcoffee.net/post/qr-code-application-for-windows-with-python
+The full tutorial for this program can be found at: https://zentrofuse.com/blog/2022-07-07-QR-Code-Application-for-Windows-with-Python
